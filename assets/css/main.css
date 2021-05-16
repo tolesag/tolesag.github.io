@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'IranSans';
+  font-style: normal;
+  font-display: swap;
+  src: url('~assets/fonts/IRANSansWeb.ttf') format('truetype');
+}
+
+html * {
+  font-family: IranSans, serif;
+}
